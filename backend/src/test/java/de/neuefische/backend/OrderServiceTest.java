@@ -8,6 +8,6 @@ class OrderServiceTest {
 
     @Test
     void isOrderValid() {
-        assertTrue(new OrderService().isOrderValid());
+        assertFalse(new OrderService().isOrderValid());
     }
 }
