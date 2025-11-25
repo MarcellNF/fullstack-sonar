@@ -15,8 +15,7 @@
     <description>backend</description>
     <properties>
         <java.version>21</java.version>
-        <sonar.organization>neuefische</sonar.organization>
-        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+        <sonar.organization>marcellnf</sonar.organization>
     </properties>
     <dependencies>
         <dependency>
