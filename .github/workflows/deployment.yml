@@ -82,7 +82,7 @@ jobs:
     needs: push-to-docker-hub
     environment:
       name: Fullstack Project # Capstone Project name
-      url: https://fullstack-v15z.onrender.com/ # Link to deployment
+      url: https://testimage-t3bk.onrender.com # Link to deployment
     steps:
       - name: Trigger Render.com Deployment
         run: |
